@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+
+# Checkpoints (training artifacts, hundreds of files)
+checkpoints/
+
+# Jupyter / IDE
+.ipynb_checkpoints/
+.idea/
+.vscode/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs / temp
+*.log
+_tmp_*.py
